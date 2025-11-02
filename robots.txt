@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.ericvonk.nl/sitemap.xml
