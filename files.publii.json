@@ -87,7 +87,7 @@
     {
         "path": "contact.html",
         "type": "file",
-        "md5": "1d1b399dc71c3226290ae66521a79328"
+        "md5": "09e280635fb210d9aa7750557b0f7efe"
     },
     {
         "path": "feed.json",
@@ -267,12 +267,12 @@
     {
         "path": "over-mij.html",
         "type": "file",
-        "md5": "2a5fe1b6e4bb2ff69f604b8f984d2104"
+        "md5": "aadbb899c0a495d0aa63a525f2805a0e"
     },
     {
         "path": "portfolio.html",
         "type": "file",
-        "md5": "a9f6449277310373a9ccaf122839fd97"
+        "md5": "fed173a8fabebf267f57c193b5b1abb9"
     },
     {
         "path": "robots.txt",
@@ -282,7 +282,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "5f42c749b1fb2474949b77ba03c0ed67"
+        "md5": "e267139f95aedd8ad5eacdc9bd768399"
     },
     {
         "path": "sitemap.xsl",
