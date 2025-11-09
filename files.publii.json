@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "994ec34b0c5be58c524b54e112206c0e"
+        "md5": "1b4d8f193609771c20aa720f5ee540ba"
     },
     {
         "path": "assets",
@@ -82,12 +82,12 @@
     {
         "path": "/authors/eric-vonk/index.html",
         "type": "file",
-        "md5": "96d84d8d024e7ff67e47b3d6797a287e"
+        "md5": "62072e44f494787b9dcfea12f42d0eec"
     },
     {
         "path": "contact.html",
         "type": "file",
-        "md5": "90113d171acf597e9c1afc9c5d8561db"
+        "md5": "3866a103584262446e26592bc20eb6d7"
     },
     {
         "path": "feed.json",
@@ -102,7 +102,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a22b3c533aca4f8d02e19de21d0f86a8"
+        "md5": "31747d6314cc66972cf06ce9ebed4b36"
     },
     {
         "path": "media",
@@ -230,6 +230,11 @@
         "md5": "926a6c5f4aedb6c6a13a140df568fc09"
     },
     {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
@@ -267,12 +272,12 @@
     {
         "path": "over-mij.html",
         "type": "file",
-        "md5": "816415c99ddcac7e45269aa6de8e9713"
+        "md5": "25c15b22905dd47d52c9677040e1ed18"
     },
     {
         "path": "portfolio.html",
         "type": "file",
-        "md5": "75407b8df4096db84a69efad66944351"
+        "md5": "b19e1d7a107cbb8f6f33875ea7d955ed"
     },
     {
         "path": "robots.txt",
@@ -297,6 +302,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "7e7d6c84f92f827564cd1f73ace39a7a"
+        "md5": "fab5592c33096c2463e0f07c39851fb6"
     }
 ]
