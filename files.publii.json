@@ -287,7 +287,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "9e4eb59c648b3994b7bf2fe5205cdede"
+        "md5": "ba587081b85f5b45affd7282ae638c51"
     },
     {
         "path": "sitemap.xsl",
@@ -310,8 +310,8 @@
         "md5": "c3e6cd29b0bda4160f824e3a25dafce0"
     },
     {
-        "path": "verkoop-en-leveringsvoorwaarden.html",
+        "path": "voorwaarden.html",
         "type": "file",
-        "md5": "ac054d1a0991e0eb941d0056248ed558"
+        "md5": "906e309151e6a238979a5c038889a1f9"
     }
 ]
