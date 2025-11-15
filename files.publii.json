@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "1b4d8f193609771c20aa720f5ee540ba"
+        "md5": "bc678980c633d4637e366ed359961c4a"
     },
     {
         "path": "assets",
@@ -82,12 +82,12 @@
     {
         "path": "/authors/eric-vonk/index.html",
         "type": "file",
-        "md5": "62072e44f494787b9dcfea12f42d0eec"
+        "md5": "ec9a2e838a7bbac69524c41128b866d1"
     },
     {
         "path": "contact.html",
         "type": "file",
-        "md5": "3866a103584262446e26592bc20eb6d7"
+        "md5": "32b11dea5d74328a49867a83f0a9cf93"
     },
     {
         "path": "feed.json",
@@ -102,7 +102,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "31747d6314cc66972cf06ce9ebed4b36"
+        "md5": "1cd9c95c5f927033d7c25129d2aa5ce2"
     },
     {
         "path": "media",
@@ -272,12 +272,12 @@
     {
         "path": "over-mij.html",
         "type": "file",
-        "md5": "25c15b22905dd47d52c9677040e1ed18"
+        "md5": "0f2cd7337e9bdff8308d98f3ba20aa71"
     },
     {
         "path": "portfolio.html",
         "type": "file",
-        "md5": "b19e1d7a107cbb8f6f33875ea7d955ed"
+        "md5": "61e7703cc9f06faecfd489bf4e7a351b"
     },
     {
         "path": "robots.txt",
@@ -287,7 +287,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "6c004522d0734da3dd91baef2b18962b"
+        "md5": "9e4eb59c648b3994b7bf2fe5205cdede"
     },
     {
         "path": "sitemap.xsl",
@@ -302,6 +302,16 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "fab5592c33096c2463e0f07c39851fb6"
+        "md5": "71c5c58833e56e072494b4b75e3617a5"
+    },
+    {
+        "path": "verkoop-en-leveringsvoorwaarden-eric-vonk.pdf",
+        "type": "file",
+        "md5": "c3e6cd29b0bda4160f824e3a25dafce0"
+    },
+    {
+        "path": "verkoop-en-leveringsvoorwaarden.html",
+        "type": "file",
+        "md5": "0225ec44decf22931897028f5f2c3313"
     }
 ]
