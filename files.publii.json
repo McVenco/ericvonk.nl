@@ -350,36 +350,6 @@
         "md5": "5fb03d81a7f0670652c32d15fbef384d"
     },
     {
-        "path": "/media/posts/2/IMG_3895-2.JPG",
-        "type": "file",
-        "md5": "759c26a956d35f3b0ce4bdd2f60d2c2c"
-    },
-    {
-        "path": "media/posts/2/gallery",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/2/gallery/IMG_3661-thumbnail.JPG",
-        "type": "file",
-        "md5": "a8a07bf62e81b99b6bf1a3f77dda9f1e"
-    },
-    {
-        "path": "/media/posts/2/gallery/IMG_3661.JPG",
-        "type": "file",
-        "md5": "465698958038ff8a8b32dd7d2401ffba"
-    },
-    {
-        "path": "/media/posts/2/gallery/IMG_3730-2-thumbnail.JPG",
-        "type": "file",
-        "md5": "1cd5aa608215686d7bed08d94f622fd6"
-    },
-    {
-        "path": "/media/posts/2/gallery/IMG_3730-2.JPG",
-        "type": "file",
-        "md5": "404bebb5db3cfa09ddb975e13c63a03d"
-    },
-    {
         "path": "media/posts/2/responsive",
         "type": "directory",
         "md5": false
@@ -473,36 +443,6 @@
         "path": "/media/posts/2/responsive/IMG_2602-2-xs.jpeg",
         "type": "file",
         "md5": "49a7e71a2a4093c77c83c53863cc0e5e"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_3895-2-2xl.JPG",
-        "type": "file",
-        "md5": "e40aa73b8a16cb72ca17a0a997028dfb"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_3895-2-lg.JPG",
-        "type": "file",
-        "md5": "b07f01119caa0f911339e4171697ec3e"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_3895-2-md.JPG",
-        "type": "file",
-        "md5": "4a6da1a5c0db22e46b05dcc7b87c80a0"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_3895-2-sm.JPG",
-        "type": "file",
-        "md5": "0a1e83cff36d9bb462c3f86d2c9cd24f"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_3895-2-xl.JPG",
-        "type": "file",
-        "md5": "967e8f88c63fbe5e5017b12204a2bf92"
-    },
-    {
-        "path": "/media/posts/2/responsive/IMG_3895-2-xs.JPG",
-        "type": "file",
-        "md5": "9f137b3d2d41df89ae17fbc670bc18e7"
     },
     {
         "path": "media/website",
@@ -702,7 +642,7 @@
     {
         "path": "portfolio.html",
         "type": "file",
-        "md5": "d7cb39f9ca7918b177bee07c6eb8ab95"
+        "md5": "28742f4f1acdf9dc6131116cb510b2d8"
     },
     {
         "path": "robots.txt",
@@ -727,7 +667,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "559e2e4bd7525a91eaa3ec83d6df83cf"
+        "md5": "dbfb2bdf0122ae90ce9b2ced839a90f2"
     },
     {
         "path": "sitemap.xsl",
